@@ -15,7 +15,6 @@
         :beginner: Persevering competency <br>
         :beginner: Socially approachable <br>
         :beginner: Problem Solving <br>
-        :beginner: Tech Enthusiast <br>
 
 
 <div id="user-content-toc" >
