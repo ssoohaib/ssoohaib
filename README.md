@@ -12,7 +12,7 @@
 - 🔭 𝙸’𝚖 a senior at <a href="https://nu.edu.pk/" target="_blank">**FAST NUCES.**</a>
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 Sometimes I try to work on some short personal projects of mine.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Everything is relative: *Just hang in there.***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Everything is relative, *Just hang in there.***
 -  :high_brightness: <b>Special quality:</b> <br>
         :beginner: Persevering competency <br>
         :beginner: Socially approachable <br>
